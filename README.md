@@ -1,1 +1,1 @@
-# DFA-simulator-
+# DFA-simulator
